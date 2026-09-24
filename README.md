@@ -7,5 +7,6 @@ I work on SEO and content marketing for Flametree.
 My work focuses on content about AI customer service, financial services, debt collection, and omnichannel customer engagement.
 
 - **Website:** [flametree.ai](https://flametree.ai)
+- **GitHub Pages:** [yachmeneva-ksenia.github.io](https://yachmeneva-ksenia.github.io)
 - **Documentation:** [docs.flametree.ai](https://docs.flametree.ai)
 - **GitHub organization:** [github.com/Flametree-ai](https://github.com/Flametree-ai)
